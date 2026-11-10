@@ -47,6 +47,25 @@ I use GitHub to document my technical journey, practical projects, and continuou
 
 More networking projects and technical documentation will be added as I continue developing my skills.
 
+### 🌐 NOVA Small Business Network
+
+**CCNA Practical Networking Project | Cisco Packet Tracer**
+
+Designed and configured a small business network using Cisco technologies.
+
+**Key Features:**
+- VLAN Configuration (VLAN 10, 20, 30, 40).
+- Inter-VLAN Routing (Router-on-a-Stick).
+- 802.1Q Trunking.
+- DHCP Configuration.
+- Static Server IP Addressing.
+- Extended ACL Security.
+- Network Connectivity Testing.
+
+**Tools:** Cisco Packet Tracer
+
+🔗 [View Project Repository](../NOVA-Small-Business-Network)
+
 ---
 
 ## 🎓 Certifications
