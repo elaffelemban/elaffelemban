@@ -70,13 +70,23 @@ Designed and configured a small business network using Cisco technologies.
 
 ## 🎓 Certifications
 
-- Cisco Certified Network Associate (CCNA)
+### Cisco Certified Network Associate (CCNA)
 
+- **Issued by:** Cisco
+- **Issue Date:** October 22, 2026
+- **Expiration Date:** October 22, 2029
+- **Credential:** Official Cisco CCNA Certification
+
+📜 [View Official CCNA Certificate](CCNA-Certificate-Elaf-Felemban.jpg)
+
+
+![CCNA Certificate](CCNA-Certificate-Elaf-Felemban.jpg)
 ---
 
 ## 🤝 Connect With Me
 
 - LinkedIn: [Elaf Felemban](https://www.linkedin.com/in/elaffelemban)
+- 
 
 ---
 
