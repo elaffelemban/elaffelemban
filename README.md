@@ -64,7 +64,7 @@ Designed and configured a small business network using Cisco technologies.
 
 **Tools:** Cisco Packet Tracer
 
-🔗 [View Project Repository](../NOVA-Small-Business-Network)
+🔗 [View Project Repository](https://github.com/elaffelemban/NOVA-Small-Business-Network)
 
 ---
 
